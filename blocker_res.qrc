@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/icon.ico</file>
+        <file>images/tick.ico</file>
+        <file>images/save.ico</file>
+        <file>images/redo.ico</file>
+        <file>images/undo.ico</file>
+        <file>images/open.ico</file>
+        <file>images/trash.ico</file>
+        <file>images/copy.ico</file>
+        <file>images/cut.ico</file>
+        <file>images/paste.ico</file>
+        <file>images/lh.ico</file>
+        <file>images/saveAs.ico</file>
+        <file>images/lhp.ico</file>
+    </qresource>
+</RCC>
